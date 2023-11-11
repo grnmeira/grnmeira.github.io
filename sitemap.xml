@@ -7,6 +7,25 @@
         <loc>https://grnmeira.github.io/categories/</loc>
     </url>
     <url>
+        <loc>https://grnmeira.github.io/categories/one/</loc>
+    </url>
+    <url>
+        <loc>https://grnmeira.github.io/posts/</loc>
+    </url>
+    <url>
+        <loc>https://grnmeira.github.io/posts/story-teller-functional-log-analyzer/</loc>
+        <lastmod>2023-10-17</lastmod>
+    </url>
+    <url>
         <loc>https://grnmeira.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://grnmeira.github.io/tags/one/</loc>
+    </url>
+    <url>
+        <loc>https://grnmeira.github.io/tags/three/</loc>
+    </url>
+    <url>
+        <loc>https://grnmeira.github.io/tags/two/</loc>
     </url>
 </urlset>
