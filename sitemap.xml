@@ -7,7 +7,14 @@
         <loc>https://grnmeira.github.io/categories/</loc>
     </url>
     <url>
+        <loc>https://grnmeira.github.io/categories/one/</loc>
+    </url>
+    <url>
         <loc>https://grnmeira.github.io/posts/</loc>
+    </url>
+    <url>
+        <loc>https://grnmeira.github.io/posts/pinetime-helloworld/</loc>
+        <lastmod>2024-01-24</lastmod>
     </url>
     <url>
         <loc>https://grnmeira.github.io/posts/story-teller-functional-log-analyzer/</loc>
@@ -15,5 +22,14 @@
     </url>
     <url>
         <loc>https://grnmeira.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://grnmeira.github.io/tags/c/</loc>
+    </url>
+    <url>
+        <loc>https://grnmeira.github.io/tags/embedded/</loc>
+    </url>
+    <url>
+        <loc>https://grnmeira.github.io/tags/pinetime/</loc>
     </url>
 </urlset>
