@@ -13,6 +13,10 @@
         <loc>https://grnmeira.github.io/posts/</loc>
     </url>
     <url>
+        <loc>https://grnmeira.github.io/posts/compiling-rust-for-rv32e/</loc>
+        <lastmod>2024-06-07</lastmod>
+    </url>
+    <url>
         <loc>https://grnmeira.github.io/posts/pinetime-helloworld/</loc>
         <lastmod>2024-01-24</lastmod>
     </url>
@@ -31,5 +35,11 @@
     </url>
     <url>
         <loc>https://grnmeira.github.io/tags/pinetime/</loc>
+    </url>
+    <url>
+        <loc>https://grnmeira.github.io/tags/riscv/</loc>
+    </url>
+    <url>
+        <loc>https://grnmeira.github.io/tags/rust/</loc>
     </url>
 </urlset>
